@@ -1,2 +1,18 @@
-# ASIA
-A.S.I.A. is an AI-powered virtual assistant developed in Python that combines voice recognition, speech synthesis, and visual feedback to simulate human-like interaction. Built as a personal assistant prototype, A.S.I.A. can recognize user commands, respond via natural-sounding speech, and display animated responses using Pygame.
+## A.S.I.A. - Alash Studios Intelligent Assistant
+
+A.S.I.A. is a Python-based AI assistant that uses speech recognition and text-to-speech (TTS) to interact with users via voice. Built with PyGame for animations and basic GUI interaction.
+
+## Features
+- Voice command detection
+- TTS responses
+- Animated avatar using PyGame
+- Modular command handling
+
+## Tech Stack
+- Python
+- SpeechRecognition
+- pyttsx3
+- PyGame
+
+## Why I Built It
+A.S.I.A. is the first step in creating emotionally aware virtual assistants, laying the groundwork for Cura AI.
