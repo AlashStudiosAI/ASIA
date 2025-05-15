@@ -15,4 +15,4 @@ A.S.I.A. is a Python-based AI assistant that uses speech recognition and text-to
 - PyGame
 
 ## Why I Built It
-A.S.I.A. is the first step in creating emotionally aware virtual assistants, laying the groundwork for Cura AI.
+A.S.I.A. is the first step in creating an emotionally aware virtual assistants, laying the groundwork for Cura AI.
